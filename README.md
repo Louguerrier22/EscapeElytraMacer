@@ -2,8 +2,8 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11%20%7C%201.21.8-3C8527?logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-orange)](https://fabricmc.net/)
-[![License: MIT](https://img.shields.io/github/license/L1cked/EscapeElytraMacer)](https://github.com/L1cked/EscapeElytraMacer/blob/main/LICENSE)
-[![Release](https://img.shields.io/github/v/release/L1cked/EscapeElytraMacer?display_name=tag)](https://github.com/L1cked/EscapeElytraMacer/releases)
+[![License: MIT](https://img.shields.io/github/license/L1cked/EscapeElytraMacer)](https://github.com/Louguerrier22/EscapeElytraMacer/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/L1cked/EscapeElytraMacer?display_name=tag)](https://github.com/Louguerrier22/EscapeElytraMacer/releases)
 
 A client-side Fabric mod that disconnects you when a nearby player is holding a mace and moving at dangerous speed.
 
